@@ -11,14 +11,14 @@ import { sendMembershipConfirmation } from '../services/rabbitmq.js';
 // Temporary Razorpay client setup
 // ------------------------------
 // Uncomment below lines when you have live/test Razorpay keys
-
+/*
 import dotenv from 'dotenv';
 dotenv.config();
 const razorpay = new Razorpay({
   key_id: process.env.RAZORPAY_KEY_ID,
   key_secret: process.env.RAZORPAY_KEY_SECRET,
 });
-
+*/
 
 // ------------------------------
 // Create Payment Order
