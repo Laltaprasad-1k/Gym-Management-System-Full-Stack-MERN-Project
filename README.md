@@ -1,7 +1,2 @@
-# full-stack-project--gym-manegement-system
-# full-stack-project--gym-manegement-system
-# full-stack-project--gym-manegement-system
-# Gym-Management-System-Full-Stack-MERN-Project
-# Gym-Management-System-Full-Stack-MERN-Project
-# Gym-Management-System-Full-Stack-MERN-Project
-# Gym-Management-System-Full-Stack-MERN-Project
+
+Hello, My Name is Lalta Prasad. I have completed my B.Tech and I am passionate about software development, especially backend development and JavaScript technologies. I enjoy building web applications using the MERN stack and continuously improving my skills in Node.js, MongoDB, Docker, AWS, CI/CD, Redis, and RabbitMQ. I am a quick learner, hardworking, and always eager to explore new technologies and solve real-world problems through coding.
